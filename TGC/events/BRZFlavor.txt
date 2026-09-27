@@ -5798,7 +5798,7 @@
 			random_owned = {
 				limit = { 
 					owner = { tag = VNZ } 
-					owner = { NOT = { has_country_flag = set_country_flag = amazon_conquered } }
+					owner = { NOT = { has_country_flag = amazon_conquered } }
 					3413 = { empty = yes }
 				}
 				owner = { secede_province = 3413 }
@@ -5808,7 +5808,7 @@
 			random_owned = {
 				limit = { 
 					owner = { tag = VNZ } 
-					owner = { NOT = { has_country_flag = set_country_flag = amazon_conquered } }
+					owner = { NOT = { has_country_flag = amazon_conquered } }
 					1979 = { empty = yes }
 				}
 				owner = { secede_province = 1979 }
